@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/32/trunk/tests
+END
+EpiFoursquareTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32/trunk/tests/EpiFoursquareTest.php
+END
+sequencerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32/trunk/tests/sequencerTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/32/trunk/tests/AllTests.php
+END
